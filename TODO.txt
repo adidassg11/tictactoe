@@ -1,0 +1,5 @@
+- more unit tests
+- AI (play with computer)
+- more generalized game (more than 2 players, N number in a row to win)
+- interface with TKinter
+- stats/record storage in db
