@@ -1,5 +1,8 @@
 - more unit tests
 - AI (play with computer)
+  - stupid mode (random) 
+  - hard mode (algo is hard coded, not bad for 3x3)
+  - hard mode (need game tree for > 3x3 board size)
 - more generalized game (more than 2 players, N number in a row to win)
 - interface with TKinter
 - stats/record storage in db
